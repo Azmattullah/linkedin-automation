@@ -1,0 +1,32 @@
+(env) azmat@azmat-vostro:~/Desktop/linkedin-automation$ ssh-keygen -t rsa
+Generating public/private rsa key pair.
+Enter file in which to save the key (/home/azmat/.ssh/id_rsa): key.txt
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in key.txt
+Your public key has been saved in key.txt.pub
+The key fingerprint is:
+SHA256:s9j6GUSKKspiUig0767qyjWb2xOPRMa3oL6Y8vruAIk azmat@azmat-vostro
+The key's randomart image is:
++---[RSA 3072]----+
+|                 |
+|                 |
+|    .   .        |
+|.+   * +         |
+|E.o = + S        |
+|+ .+ o = o       |
+|+.+o. = +        |
+|B++o=o o o       |
+|&&B*o.o.o        |
++----[SHA256]-----+
+
+
+
+
+
+
+
+
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC+h6rKiS1oNOACfj947o39Uvluxrhtggoini5EknNAo4tqsJRczzoQgjc5wW2kP3c3Xb70ZGxNsANTYbgp79SQzoMQaLCzMGFII+Kn3IS7O0aSbPj1cY3Pah83WKbPNF8ObKzFyDr4CnDuzmW5ei3wT6kp5JvPJHL8gOJaSUTuy8L9cYtpNTj82CIJKfj22q3IlDgR+hj/lrGESRn6ZwyfsmxmPC7+vCO/KZDS5LnbH/LOkIqfpN983jinr/bViTbZ6Wh8KXzdCeEs1rkW29gc/fRnr9S/OzLGwbPE0AXuwvwrZqnnIbf3z2SgoeumcXZ9VOei2SmBAzZ3RpBD0P+dMQUq+EwxzMJ2v3KBFFvAeD+ORVnGOJTpyp3gBXXV+XpSuBiizMD4OS1iZ7+RMc/oxDo+hZzv4y6gZPtsy+XV2vTCWSHRtaXF8SndLxNWIqtCFGBQPChQxQ1eMa10YVp16HWVjxvqt3//0vW9Du9ZJF3E6jNXKhQ1g10NpPrfjt0XiDyc4B32uKEkGG8FyvIKuChLIzavUs91aQQyBDRhSBvwBPMkdfwkPW0aZ7WT4UoLkgMUx/aNdOgMRd5ohc+6lClMyr9fJI8foc/cqVGcoMIk/u4GhKiFGrQIyhYJmGSGwXJxtg3ihjRVaHa7/91sM57UJBgnMUenjiFsFN1b8w== azmattullah0@gmail.com
